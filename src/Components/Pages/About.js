@@ -20,7 +20,7 @@ const About = () => {
       <div className="  md:w-[65%] flex flex-col items-center md:items-start justify-center md:justify-between">
         <h2 className="text-3xl text-rose-600 pt-0 mt-0 font-semibold">About Me</h2>
         <p className="mt-2 text-center md:text-left dark:text-white  font-semibold text-stone-900">
-          An inquisitive Computer Science and Engineering passout student, skilled in Frontend Development, Algorithmic problem solving, seeking to leverage expert in my field with focus on leadership, collaboration, communication and passion.
+          An inquisitive Computer Science and Engineering passout student, skilled in Frontend Development, Algorithmic problem solving, seeking to be expert in my field with focus on leadership, collaboration, communication and passion.
         </p>
         <Button><a href='https://drive.google.com/file/d/1YQUGUYT1_FzDkCuOAYZAh0XiT5BjGO9l/view?usp=drive_link' target="_blank" rel="noopener noreferrer"> Download CV </a></Button>
       </div>

@@ -37,8 +37,6 @@ const ProjectHolder = ({ logo, demo, code }) => {
     </div>
   );
 };
-const projectImg =
-  "https://cdn.pixabay.com/photo/2023/04/03/17/46/coffee-7897414_640.jpg";
   const linkedinCode="https://github.com/A-s-h-i-s-h-Biswas/LinkedIn-Clone-FullStack";
   const disneyCode="https://github.com/A-s-h-i-s-h-Biswas/DisneyHotstarClone";
   const chatCode="https://github.com/A-s-h-i-s-h-Biswas/ChatApp";
@@ -82,9 +80,7 @@ const Projects = () => {
           <ProjectHolder logo={disneyClone} demo={disneyDemo} code={disneyCode}/>
           <ProjectHolder logo={foody} demo={foodyDemo} code={foodyCode}/>
           <ProjectHolder logo={chatapp} code={chatCode}/>
-          <ProjectHolder logo={projectImg}/>
-          <ProjectHolder logo={projectImg}/>
-          <ProjectHolder logo={projectImg}/>
+
         </Slider>
       
     </section>
